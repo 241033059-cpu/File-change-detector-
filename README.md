@@ -1,2 +1,2 @@
 # File-change-detector-
-This project is about file change detector
+find files with identical content in a directory using size grouping...
