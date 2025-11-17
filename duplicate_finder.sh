@@ -64,7 +64,7 @@ about_project() {
     echo "---------------------------------------------------"
     echo "Project : Duplicate File Finder"
     echo "Name    : Komal"
-    echo "Version : Basic Menu-Driven (Auto Directory)"
+    echo "Version : Basic Menu-Driven "
     echo
     echo "Description:"
     echo "This script scans the current working directory"
